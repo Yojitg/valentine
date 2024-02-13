@@ -107,7 +107,7 @@
     var mp3Url = 'https://github.com/Raw9k-ai/Happy-Valentine-s-day-/raw/main/Video%20by%20jivan_edit%20%5BC2KQghTvZPM%5D.m4a';
     var audio = new Audio(mp3Url);
     audio.play();
-    alert("I love you TANIYA! ❤️");
+    alert("I love you Shivani! ❤️");
   }
 
   function noClicked() {
